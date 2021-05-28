@@ -1,1 +1,1 @@
-# r_week_13
+This project uses R to perform supervised and unsupervised learning
